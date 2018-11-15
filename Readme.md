@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ReportService.svc.cs](./CS/ReportsSilverlight_SaveLoad_Example.Web/ReportService.svc.cs) (VB: [ReportService.svc.vb](./VB/ReportsSilverlight_SaveLoad_Example.Web/ReportService.svc.vb))
+* **[MainPage.xaml](./CS/ReportsSilverlight_SaveLoad_Example/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ReportsSilverlight_SaveLoad_Example/MainPage.xaml.vb))**
+* [MainPage.xaml.cs](./CS/ReportsSilverlight_SaveLoad_Example/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ReportsSilverlight_SaveLoad_Example/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to save and restore report definition files using the Silverlight report designer
 
 

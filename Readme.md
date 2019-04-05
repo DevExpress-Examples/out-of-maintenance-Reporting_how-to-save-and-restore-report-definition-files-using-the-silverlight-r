@@ -3,7 +3,7 @@
 
 * [DataSourceService.cs](./CS/ReportsSilverlight_SaveLoad_Example.Web/Extensions/DataSourceService.cs) (VB: [DataSourceService.vb](./VB/ReportsSilverlight_SaveLoad_Example.Web/Extensions/DataSourceService.vb))
 * [DesignerReportStore.cs](./CS/ReportsSilverlight_SaveLoad_Example.Web/Extensions/DesignerReportStore.cs) (VB: [DesignerReportStore.vb](./VB/ReportsSilverlight_SaveLoad_Example.Web/Extensions/DesignerReportStore.vb))
-* **[MainPage.xaml](./CS/ReportsSilverlight_SaveLoad_Example/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ReportsSilverlight_SaveLoad_Example/MainPage.xaml.vb))**
+* **[MainPage.xaml](./CS/ReportsSilverlight_SaveLoad_Example/MainPage.xaml) (VB: [MainPage.xaml](./VB/ReportsSilverlight_SaveLoad_Example/MainPage.xaml))**
 * [MainPage.xaml.cs](./CS/ReportsSilverlight_SaveLoad_Example/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ReportsSilverlight_SaveLoad_Example/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to save and restore report definition files using the Silverlight report designer
